@@ -1,0 +1,6 @@
+{
+  "name": "AURA Dental Clinique — Swiss Luxury Medical Experience",
+  "description": "An award-winning Swiss luxury dental clinic with scroll-driven 3D tooth canvas scrubbing, interactive doctor showcase, before/after smile comparison slider, real-time booking with email alerts, and encrypted patient records.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
